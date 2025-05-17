@@ -1,4 +1,4 @@
-# KMeans Patient Segmentation for Hospital Cost Optimization
+# K-Means Clustering for Patient Segmentation to Support Healthcare Cost Optimization
 
 ## Overview
 
